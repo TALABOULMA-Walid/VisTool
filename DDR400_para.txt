@@ -1,0 +1,13 @@
+type        		DDR2
+clockPeriod		2
+burstLength		32
+tRC			28.0
+tRAS			20.1
+tCAS			20.2
+tRCD			20.3
+tFAW			0.1
+tDQS			4.1
+tWR			4.2
+tRP			8.0
+num_rank		4
+num_bank		4
